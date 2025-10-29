@@ -37,5 +37,6 @@ There are a lot of optional steps which could lead to errors if left out. These 
 3. Press update CppLogic and mark the checkbox
 
 # If you need help feel free to ask @ZorkManu on the archipelago Discord.
-# A video tutorial for most of the optional points can be found here: https://www.youtube.com/watch?v=XXyznU_jLEM (Its in german but you can activate subtitles)
+A video tutorial for most of the optional points can be found here: https://www.youtube.com/watch?v=XXyznU_jLEM (Its in german but you can activate subtitles)
+
 
