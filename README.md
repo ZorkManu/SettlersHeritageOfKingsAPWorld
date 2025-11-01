@@ -7,7 +7,7 @@ This guide will help you set up the Archipelago client for The Settlers Heritage
 There are a lot of optional steps which could lead to errors if left out. These will later be tested and edited
 
 1. The Settlers Heritage Of Kings installed on your computer:
-   *Currently my tests where on the cd (Gold Edition) but the History Edition (steam) might work aswell. Therefore the conversion guide is below in case the History Edition doesn't work. For the CD Version: It is important that you have the Legends Expansion so the Version sold on f.E. GoG doesnt suffice!*
+*Currently my tests where on the cd (Gold Edition) but the History Edition (steam) might work aswell. Therefore the conversion guide is below in case the History Edition doesn't work. For the CD Version: It is important that you have the Legends Expansion so the Version sold on f.E. GoG doesnt suffice!*
 3. Archipelago client installed
 
 ## Installation
@@ -39,6 +39,7 @@ There are a lot of optional steps which could lead to errors if left out. These 
 
 # If you need help feel free to ask @ZorkManu on the archipelago Discord.
 A video tutorial for most of the optional points can be found here: https://www.youtube.com/watch?v=XXyznU_jLEM (Its in german but you can activate subtitles)
+
 
 
 
