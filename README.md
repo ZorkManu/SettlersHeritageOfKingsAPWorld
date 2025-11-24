@@ -13,7 +13,7 @@ There are a lot of optional steps which could lead to errors if left out. These 
 ## Installation
 1. Download the archipelago maps: https://github.com/ZorkManu/ArchipelagoS5Mappack
 2. Go to {\extra2\maps\user\} and exctract the Mappack there
-3. *optional* go into to {\Documents\DIE SIEDLER - DEdK\Data} and save the GDB.bin for the case anything breaks its good to have a backup
+3. *optional* go into to {\Documents\DIE SIEDLER - DEdK\Data} or {\Documents\THE SETTLERS - HoK\Data} and save the GDB.bin for the case anything breaks its good to have a backup (if your folder is named differently please message me, I only have the german Documents folder)
 4. Open the Legends Game and start the map __archipelago_init
 5. Open the Launcher and select your gamepath.
 
@@ -39,6 +39,7 @@ There are a lot of optional steps which could lead to errors if left out. These 
 
 # If you need help feel free to ask @ZorkManu on the archipelago Discord.
 A video tutorial for most of the optional points can be found here: https://www.youtube.com/watch?v=XXyznU_jLEM (Its in german but you can activate subtitles)
+
 
 
 
