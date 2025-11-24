@@ -4,7 +4,7 @@
 
 ### Items and locations
 
-The folowing unlocks are randomized as items:
+The following unlocks are randomized as items:
 1. The ability to recruit heroes
 2. Technology upgrades in every building, mainly in the university
 3. Useful boni for building your village faster like starting Ressources or Village Center Attraction Limit
@@ -36,3 +36,4 @@ In the Mission Tab Ingame there are missing archipelago locations for every map
 13. Evelance - pilgrim, progressive_alchemy x3, progressive_weathertech x2, progressive_literacy x4
 14. Wasteland - progressive_construction x3
 15. Battle of Evelance - none
+
