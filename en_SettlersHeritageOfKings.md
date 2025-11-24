@@ -1,4 +1,4 @@
-# The Settlers Heritage Of Kins
+# The Settlers Heritage Of Kings
 
 ## What does randomization do it this game?
 
@@ -18,3 +18,4 @@ Completing the last mission.
 
 ## Where do I find which locations are missing?
 In the Mission Tab Ingame there are missing archipelago locations for every map
+
