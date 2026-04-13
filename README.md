@@ -15,8 +15,8 @@ There are a lot of optional steps which could lead to errors if left out. These 
 2. Go to {\extra2\maps\user\} and exctract the Mappack there
 3. *optional* go into to {\Documents\DIE SIEDLER - DEdK\Data} or {\Documents\THE SETTLERS - HoK\Data} or {\Documents\The Settlers - Heritage of Kings\Data} and save the GDB.bin for the case anything breaks its good to have a backup (if your folder is named differently please message me so i can update the folder-list, I only have the german Documents folder)
 4. Open the Legends Game and start the map __archipelago_init
-5. Download the archipelago [fork](https://github.com/ZorkManu/Archipelago) *Currently the whole thing is needed since i dont have an exe of the launcher yet*
-6. Open the Launcher *with python 3.11.9 or newer* and select your gamepath with /game_path. *It needs to be the main folder of your installation not a subfolder like bin*
+5. Download the archipelago [fork](https://github.com/ZorkManu/ArchipelagoSettlersHeritageOfKingsLauncherInstallation) *Currently the whole thing is needed since it isnt included in the official installation yet*
+6. Open the Launcher and select your gamepath with /game_path. *It needs to be the main folder of your installation not a subfolder like bin and the you can copy paste your folder path from the explorer*
 
 ## *optional*: Play with full screen window and HD Resolution
 1. Download the mpupdater http://46.38.241.185:45001/share/MPUpdaterV4.zip (Link to the creators discord: https://discord.gg/b28BsKz)
