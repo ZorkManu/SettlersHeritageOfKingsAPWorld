@@ -33,7 +33,7 @@ There are a lot of optional steps which could lead to errors if left out. These 
 4. Open a Folder where the Gold Edition should be installed to
 5. Now you have a fresh installement of the Gold Edition!
 
-## *optional*: Activate CppLogic (might be required for additional_attraction and additional_motivation)
+## *optional*: Activate CppLogic (might be required for additional_attraction and additional_motivation) (used in a later installment doenst do anything right now)
 1. Download and unzip the S5Updater: https://github.com/mcb5637/S5Updater/releases/latest/download/Release.zip
 2. Open the S5Updater.exe
 3. Press update CppLogic and mark the checkbox
