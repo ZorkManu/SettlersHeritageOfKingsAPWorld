@@ -18,20 +18,20 @@ There are a lot of optional steps which could lead to errors if left out. These 
 5. Download the archipelago [fork](https://github.com/ZorkManu/ArchipelagoSettlersHeritageOfKingsLauncherInstallation) *Currently the whole thing is needed since it isnt included in the official installation yet*
 6. Open the Launcher (ArchipelagoSettlersHeritageOfKingsClient.exe) and select your gamepath with /game_path. *It needs to be the main folder of your installation not a subfolder like bin and the you can copy paste your folder path from the explorer*
 
-## *optional*: Play with full screen window and HD Resolution
-1. Download the mpupdater http://46.38.241.185:45001/share/MPUpdaterV4.zip (Link to the creators discord: https://discord.gg/b28BsKz)
-2. Extract the files into your Settlers game folder
-3. Start the mpupdater.exe (as admin if Settlers is installed in your programfiles) 
-* NOTE: Some Antivirus Software will block the mpupdater.exe. This happens due to it being a fan hosted server connector, so open at your own risk *
-4. Press on Fetch Diff and Update.
-5. Now the archipelago launcher will start the game with borderless window resolution!
-
 ## *optional*: Convert your Steam (History) Edition to the Gold Edition (PC-CD Version) 
 1. Download and unzip the S5Updater: https://github.com/mcb5637/S5Updater/releases/latest/download/Release.zip
 2. Open the S5Updater.exe
 3. Open the History Edition Path
 4. Open a Folder where the Gold Edition should be installed to
 5. Now you have a fresh installement of the Gold Edition!
+
+## *optional*: Play with full screen window and HD Resolution (Gold Edition needed)
+1. Download the mpupdater http://46.38.241.185:45001/share/MPUpdaterV4.zip (Link to the creators discord: https://discord.gg/b28BsKz)
+2. Extract the files into your Settlers game folder
+3. Start the mpupdater.exe (as admin if Settlers is installed in your programfiles) 
+* NOTE: Some Antivirus Software will block the mpupdater.exe. This happens due to it being a fan hosted server connector, so open at your own risk *
+4. Press on Fetch Diff and Update.
+5. Now the archipelago launcher will start the game with borderless window resolution!
 
 ## *optional*: Activate CppLogic (might be required for additional_attraction and additional_motivation) (used in a later installment doenst do anything right now)
 1. Download and unzip the S5Updater: https://github.com/mcb5637/S5Updater/releases/latest/download/Release.zip
