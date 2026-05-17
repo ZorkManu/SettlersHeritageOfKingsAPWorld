@@ -30,10 +30,10 @@ In the Mission Tab Ingame there are missing archipelago locations for every map
 7. Folklung - pilgrim
 8. Norfolk - pilgrim
 9. Kaloix - none
-10. Plague - progressive_weathertech x2
-11. Old Kings Castle - pilgrim, progressive_alchemy x3, progressive_weathertech x2
+10. Plague - progressive_alchemy x3,progressive_weathertech x2
+11. Old Kings Castle - pilgrim, helias, ari progressive_alchemy x3, progressive_weathertech x2
 12. Cloudy Mountains - pilgrim
 13. Evelance - pilgrim, progressive_alchemy x3, progressive_weathertech x2, progressive_literacy x4
-14. Wasteland - progressive_construction x3
+14. Wasteland - progressive_construction x4
 15. Battle of Evelance - none
 
